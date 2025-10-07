@@ -18,3 +18,4 @@ jobs:
         uses: cloudbees-io/findsecbugs-hybrid-plugin@main
         with:
           binary-tar-path: ./vulnado-0.0.1-SNAPSHOT.tar
+          
